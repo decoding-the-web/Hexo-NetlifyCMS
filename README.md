@@ -3,7 +3,7 @@ title: README
 ---
 # Hexo-NetlifyCMS
 
-![](https://img.shields.io/github/license/DemoMacro/Hexo-NetlifyCMS.svg?style=flat)
+![](https://img.shields.io/github/license/decoding-the-web/Hexo-NetlifyCMS.svg?style=flat)
 
 > This is a hexo site hosted with Netlify.
 
@@ -14,7 +14,7 @@ title: README
 
 Let's get started with Hexo-NetlifyCMS step by step.
 
-### Fork [Hexo-NetlifyCMS](https://github.com/DemoMacro/Hexo-NetlifyCMS) on Github
+### Fork [Hexo-NetlifyCMS](https://github.com/decoding-the-web/Hexo-NetlifyCMS) on Github
 
 More info: [Configuration](https://hexo.io/docs/configuration.html)
 
